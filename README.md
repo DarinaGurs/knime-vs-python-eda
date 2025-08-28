@@ -1,5 +1,11 @@
 # Сравнение проведения EDA: KNIME vs Python
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![KNIME](https://img.shields.io/badge/KNIME-Analytics%20Platform-orange?logo=knime)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+![EDA](https://img.shields.io/badge/Analysis-EDA-brightgreen)
+
+
 Проект посвящен сравнительному анализу проведения Разведочного анализа данных (EDA) с помощью двух мощных инструментов: визуальной платформы KNIME и языка программирования Python (с использованием библиотек Pandas, Seaborn, Matplotlib).
 
 ## Цели и описание проекта
