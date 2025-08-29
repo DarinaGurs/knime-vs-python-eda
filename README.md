@@ -1,4 +1,4 @@
-# Сравнение проведения EDA: KNIME vs Python
+# Сравнительный анализ проведения EDA: KNIME vs Python
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![KNIME](https://img.shields.io/badge/KNIME-Analytics%20Platform-orange?logo=knime)
